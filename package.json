@@ -1,7 +1,7 @@
 {
-  "name": "environmental-olympia2",
+  "name": "environmental-olympia",
   "version": "0.1.0",
-  "homepage": "https://rohannihalani.github.io/environmental-olympia2",
+  "homepage": "https://rohannihalani.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
